@@ -1,6 +1,6 @@
-title:         shooting start
+title:         살벌한둘리
 description:      computer lover
-disqus_shortname:
+disqus_shortname: cele-1
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -11,12 +11,12 @@ url:
 owner:
   name:          thesky
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  bio:            "파이썬,머신러닝,웹 . . . ."
   email:          rkdls9@naver.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
-  github:
+  github: rkdls
   stackexchange:
   linkedin:
   instagram:
