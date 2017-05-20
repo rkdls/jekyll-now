@@ -32,8 +32,9 @@ async def print_sum(x, y):  #3
 loop = asyncio.get_event_loop() #1
 loop.run_until_complete(print_sum(1, 2)) #2
 loop.close()
+# 결과값 : 1 + 2 = 3
 ```
-결과값 : 1 + 2 = 3
+
 
 [https://docs.python.org/3/library/asyncio-task.html](https://docs.python.org/3/library/asyncio-task.html)
 
@@ -60,6 +61,7 @@ loop.close()
 
 
 위 코드의 흐름도.
+
 Task객체는 run_until_complete()가 호출될때 내부적 생성된다.
 
 위의 결과만봤을때는 await를 썼을대와 안썼을때의 흐름의 차이가 없지만 await의 사용법을 보여주고있다.
