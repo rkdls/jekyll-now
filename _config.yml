@@ -1,4 +1,4 @@
-title:         살벌한둘리
+title:         the sky
 description:      computer lover
 disqus_shortname: cele-1
 reading_time:     true
@@ -52,7 +52,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
