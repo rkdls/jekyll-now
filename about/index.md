@@ -2,7 +2,7 @@
 layout: page
 title: the sky
 image:
-  feature: abstract-5.jpg
+  feature: indexbackground.jpg
 comments: true
 modified: 2017-05-20
 ---
