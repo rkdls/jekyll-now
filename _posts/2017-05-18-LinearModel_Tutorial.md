@@ -2,7 +2,7 @@
 layout: post
 title: TensorFlow Linear Model Tutorial
 description: "TensorFlow Linear Model Tutorial"
-tags: [machine learning]
+tags: [machine-learning]
 ---
 <h1>TensorFlow Linear Model Tutorial </h1>
 
